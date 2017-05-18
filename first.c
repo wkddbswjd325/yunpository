@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//test·Î Ãß°¡dfsfwef
 
 int swit[10][5] = { {0,1,2,INT_MAX,INT_MAX}, {3,7,9,11,INT_MAX}, {4,10,14,15,INT_MAX},
 					{0,4,5,6,7}, {6,7,8,10,12}, {0,2,14,15,INT_MAX},
